@@ -1,5 +1,5 @@
 ---
-name: qa-r2-gh-multi
+name: qa-r2-gh-cw
 description: Use when an agent needs a short summary of an IT ticket. Reads the ticket subject and description and writes a three-bullet summary of problem, impact and next step.
 ---
 
