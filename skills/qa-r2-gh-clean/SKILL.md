@@ -10,3 +10,4 @@ description: Use when an agent needs a short summary of an IT ticket. Reads the 
 3. Keep each bullet under 25 words.
 4. Do not invent facts that are not in the ticket.
 5. UPSTREAM-CHANGE-277802
+6. UPSTREAM-EDT005-277802
